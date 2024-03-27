@@ -15,6 +15,9 @@ This is a book management system built with PHP and JavaScript, using the Larave
 - Node.js
 - NPM
 
+## Diagrams and Screenshots
+![Screenshot Diagrams](diagram-export-3-28-2024-12_47_33-AM.png)
+
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/achmadfha/books-app.git your-project-directory`
